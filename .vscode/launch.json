@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BrowsedItemPerformanceEvaluation",
+            "request": "launch",
+            "mainClass": "examples.BrowsedItemPerformanceEvaluation",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch BrowsedItemRecommenderExample",
+            "request": "launch",
+            "mainClass": "examples.BrowsedItemRecommenderExample",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecuteGDMF",
+            "request": "launch",
+            "mainClass": "examples.ExecuteGDMF",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecuteNP_Expt",
+            "request": "launch",
+            "mainClass": "examples.ExecuteNP_Expt",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecutePopAlg",
+            "request": "launch",
+            "mainClass": "examples.ExecutePopAlg",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecuteUB",
+            "request": "launch",
+            "mainClass": "examples.ExecuteUB",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecuteUB_Expt1",
+            "request": "launch",
+            "mainClass": "examples.ExecuteUB_Expt1",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecuteUB_Expt2",
+            "request": "launch",
+            "mainClass": "examples.ExecuteUB_Expt2",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExecuteUB_Expt3",
+            "request": "launch",
+            "mainClass": "examples.ExecuteUB_Expt3",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch MFPerformanceEvaluation",
+            "request": "launch",
+            "mainClass": "examples.MFPerformanceEvaluation",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP_PerformanceEvaluation",
+            "request": "launch",
+            "mainClass": "examples.NP_PerformanceEvaluation",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch PopularityRecommendationExample",
+            "request": "launch",
+            "mainClass": "examples.PopularityRecommendationExample",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomRecommendationExample",
+            "request": "launch",
+            "mainClass": "examples.RandomRecommendationExample",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch RerankingExample",
+            "request": "launch",
+            "mainClass": "examples.RerankingExample",
+            "projectName": "COMP47580-RecSysCode"
+        },
+        {
+            "type": "java",
+            "name": "Launch UBMFComparison",
+            "request": "launch",
+            "mainClass": "examples.UBMFComparison",
+            "projectName": "COMP47580-RecSysCode"
+        }
+    ]
+}
